@@ -1,0 +1,3 @@
+% Jekyll
+% The power of a static site generator
+% Nestor Mata Cuthbert
