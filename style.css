@@ -1,0 +1,48 @@
+/* This defines styles and classes used in the book */
+body { margin: 5%; text-align: justify; font-size: medium; }
+pre {
+  background-color: #BBBBBB;
+  border: 1px solid #55FF55;
+}
+code {
+  font-family: monospace;
+  background-color: #EEEEEE;
+}
+blockquote {
+  background-color: #EEEEEE;
+  border: 1px solid #5555FF;
+}
+dl {
+  background-color: #EEEEEE;
+  border: 1px solid #FF5555;
+}
+dt {
+  font-weight: bold;
+  color: #335533;
+}
+dd {
+
+}
+.normal-note dl {
+  background-color: #9999FF;
+}
+.warning-note dl {
+  background-color: #FFFF99;
+}
+.important-note dl {
+  background-color: #FF9999;
+}
+.normal-note h4 {display:none;}
+.warning-note h4 {display:none;}
+.important-note h4 {display:none;}
+h1 { text-align: left; }
+h2 { text-align: left; }
+h3 { text-align: left; }
+h4 { text-align: left; }
+h5 { text-align: left; }
+h6 { text-align: left; }
+h1.title { }
+h2.author { }
+h3.date { }
+ol.toc { padding: 0; margin-left: 1em; }
+ol.toc li { list-style-type: none; margin: 0; padding: 0; }
